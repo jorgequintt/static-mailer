@@ -1,0 +1,29 @@
+{
+	"http://localhost:1313": {
+		"contact": {
+			"lang": "es",
+			"type": "contacto",
+			"clientHostname": "dominio.com",
+			"clientEmail": "correo@gmail.com",
+			"html": "<strong>Remitente</strong>: %name% (%email%)<br><br><strong>Mensaje</strong>: <br>%message%"
+		}
+	},
+	"https://www.dominio2.com": {
+		"contact": {
+			"lang": "es",
+			"type": "contacto",
+			"clientHostname": "dominio2.com",
+			"clientEmail": "correo2@gmail.com",
+			"html": "<strong>Remitente</strong>: %name% (%email%)<br><br><strong>Mensaje</strong>: <br>%message%"
+		}
+	},
+	"https://dominio3.app": {
+		"contact": {
+			"lang": "es",
+			"type": "contact",
+			"clientHostname": "dominio3.app",
+			"clientEmail": "correo3@gmail.com",
+			"html": "<strong>Remitente</strong>: %name% (%email%)<br><br><strong>Mensaje</strong>: <br>%message%"
+		}
+	}
+}
